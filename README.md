@@ -2,8 +2,8 @@
 [![trailer](https://img.youtube.com/vi/4SEpKwbDj68/maxresdefault.jpg)](https://www.youtube.com/watch?v=4SEpKwbDj68)
 
 ## usage
-download an executor from https://weao.xyz/
-paste this into your executor:
+- download an executor from https://weao.xyz/
+- paste this into your executor:
 
 ```lua
 getgenv().challenge_mode = 1
