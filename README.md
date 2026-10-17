@@ -1,4 +1,5 @@
 # wheel of misfortune: recode edition
+[![trailer](https://img.youtube.com/vi/4SEpKwbDj68/maxresdefault.jpg)](https://www.youtube.com/watch?v=4SEpKwbDj68)
 
 ## usage
 
