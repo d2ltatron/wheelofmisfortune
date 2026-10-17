@@ -14,7 +14,8 @@ getgenv().challenge_timer = 20
 
 getgenv().global_sync = false
 -- global sync DISABLED: challenges are randomized and unique to you only
--- global sync ENABLED: challenges are based on unix time, and be the same as other players
+-- also only does a specific set of challenges, i'll try to fix that later
+-- global sync ENABLED: challenges are based on unix time, and will be the same as other players
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/d2ltatron/wheelofmisfortune/refs/heads/main/script.lua"))()
 ```
